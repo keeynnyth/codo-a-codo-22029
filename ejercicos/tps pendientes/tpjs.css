@@ -1,0 +1,113 @@
+.nav-link {
+    color: #D7DBDD; font-weight: 400; font-size: medium;
+}
+#linkactivo {
+    color: rgb(14, 190, 14); font-weight: 400;
+}
+.navbar-brand {
+    padding-left: 80px; font-size: x-large;
+}
+#linkSeleccionado {
+    color: rgb(255, 255, 255); font-weight: 400; font-size: medium;
+}
+h6 {
+    text-align: justify; font-weight: 700;
+}
+.card-title {
+    text-align: center;
+}
+.card-text {
+    text-align: center
+}
+.card {
+    border-color: rgba(11, 105, 228, 0.838); 
+   border-radius: 0%; 
+   border-width: 4px ;
+    padding-top: 2%; 
+    padding-bottom: 2%; 
+    padding-left: 2%; 
+    padding-right: 2%;
+   
+}
+.col {
+    padding: 3px;
+}
+#juniorcard {
+    border-color: rgb(251, 226, 6);
+}
+#traineecard {
+    border-color: rgb(9, 192, 9);
+}
+#totalAPagar {
+    background-color: rgba(112, 158, 227, 0.856); color: rgb(4, 30, 47); padding-top: 10px; padding-bottom: 10px; padding-left: 5px;
+font-weight: 500 ; margin-left: 18%; margin-right: 12px; border: 20px;font color: white
+}
+.btn {
+    background-color: rgb(135, 201, 37); border-color: rgb(135, 201, 37)
+}
+.venta {
+    text-align: center; color: rgb(56, 53, 53); font-size: large;
+}
+.venta p {
+    text-align: center; color: rgb(56, 53, 53); font-weight: 400; font-size: smaller;  margin-bottom: 0px;
+}
+#der {
+    padding-right: 0px;
+}
+#izq {
+    padding-left: 0px;
+}
+#cent {
+    padding-left: 0px; padding-right: 0px;
+}
+#cent2 {
+    padding-left: 0px; padding-right: 0px;
+}
+#cent3 {
+    padding-left: 65px; padding-right: 10px;
+}
+.card {
+    width: 280px;
+}
+#apellido {
+    padding-left: 5px;
+}
+#nombre {
+    padding-right: 5px;
+}
+#correo {
+    padding-right: 0px; margin-left: 12px; margin-right: 12px; margin-top: 8px; padding-left: 12px;
+}
+#cantrow {
+    padding-left: 0%;
+}
+#cantidad {
+    padding-left: 5px; padding-right: 5px;
+}
+#cantidadLabel {
+   margin-top: 5%; padding: 0px;
+}
+#catrow {
+    padding-right: 0%;
+}
+#categoriaLabel {
+   margin-top: 5%; padding: 0px;
+}
+#precio {
+    padding-right: 0px; padding-left: 5px;
+}
+#botonBorrar {
+   padding-left: 0px; padding-right: 5px;
+}
+#botonResumen {
+    padding-right: 0px; padding-left: 5px;
+}
+#footer {
+    background-color: rgb(10, 71, 100); padding: 10px;
+}
+#pie {
+    color: white; font-weight: 400;
+}
+#pieFrecuentes {
+    text-align: center; color: white; font-weight: 400;
+}
